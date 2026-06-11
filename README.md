@@ -18,7 +18,7 @@ Software Architect and Fullstack Lead Developer with extensive experience buildi
 | Domain | Technologies |
 | :--- | :--- |
 | **Frontend & Mobile** | [e.g., React, Vue.js, React Native, Expo, Swift] |
-| **Backend & API** | [e.g., Node.js, Python, Java, GraphQL, REST] |
+| **Backend & API** | [e.g., Node.js, Python, GraphQL, REST] |
 | **Architecture & Cloud**| [e.g., Docker, GCP, Firebase] |
 | **Databases** | [e.g., PostgreSQL, MongoDB, Redis] |
 
