@@ -1,10 +1,10 @@
-# Hi, I'm Diego! 👋
+# Hi, I'm Diego! 
 
 Software Architect and Fullstack Lead Developer with extensive experience building applications from the ground up. My daily driver? Turning business visions into robust architectures, leading passionate engineering teams, and coding highly scalable end-to-end services.
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 *   **Architecture & Strategy:** Tech stack selection, microservices design, cloud infrastructure, and system decoupling.
 *   **Management & Leadership:** Mentoring technical teams, driving Agile methodologies, and aligning engineering goals with product roadmaps.
@@ -13,7 +13,7 @@ Software Architect and Fullstack Lead Developer with extensive experience buildi
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -24,7 +24,7 @@ Software Architect and Fullstack Lead Developer with extensive experience buildi
 
 ---
 
-### 💬 Let's Connect!
+### Let's Connect!
 
-*   💼 **LinkedIn:** www.linkedin.com/in/gomez-diego-dev
-*   ⚡ **Parting Thought:** "The best technology isn't the trendiest one—it's the one that solves the business problem in the most elegant and scalable way."
+*   **LinkedIn:** www.linkedin.com/in/gomez-diego-dev
+*   **Parting Thought:** "The best technology isn't the trendiest one—it's the one that solves the business problem in the most elegant and scalable way."
