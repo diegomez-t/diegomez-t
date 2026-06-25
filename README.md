@@ -26,5 +26,6 @@ Software Architect and Fullstack Lead Developer with extensive experience buildi
 
 ### Let's Connect!
 
+*   **Website:** [gomezdiego.dev](https://gomezdiego.dev)
 *   **LinkedIn:** www.linkedin.com/in/gomez-diego-dev
 *   **Parting Thought:** "The best technology isn't the trendiest one—it's the one that solves the business problem in the most elegant and scalable way."
